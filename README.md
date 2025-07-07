@@ -1,17 +1,67 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Bhoomi&fontSize=25&fontAlignY=40)
+
+---
+
+# 🌟 About Me:
+
+- 👩‍💻 First-year **Computer Engineering** student from India
+- 💻 Skilled in **Java (OOP)**, **C**, and **basic Python**
+- ✨ Passionate about **Mathematics** and **Design**
+- 🚀 Currently working on learning advanced **Java** and building small **OOP-based projects**
+
+---
+
+# 🌱 Currently Learning:
+
+- Advanced **Java**
+- **Object-Oriented Design** concepts
+- Improving **Python** basics
+
+---
+
+# 🔍 Ask Me About:
+
+- **Java OOP**
+- **C Programming**
+- **Basic Python**
+
+---
+
+# ✨ Fun Fact:
+
+I **love Mathematics** and have an **eye for design**!
+
+---
+
+# 🔮 Languages & Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+</p>
+
+---
+
+# 💡 GitHub Stats & Streak:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomishekapure&show_icons=true&theme=tokyonight" alt="Bhoomi's GitHub stats" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomishekapure&theme=tokyonight" alt="Bhoomi's GitHub streak" width="400"/>
+</p>
+
+---
+
+# 📞 Connect with Me:
+
+- **Email:** bhoomishekapure@gmail.com
+- **GitHub:** [bhoomishekapure](https://github.com/bhoomishekapure)
+
+---
 
 
-<h1 align="center">Hi 👋, I'm Bhoomi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **Learning advanced Java and building small OOP-based projects**
-
-- 🌱 I’m currently learning **Advanced Java, Object-Oriented Design, and improving Python basics**
-
-- 💬 Ask me about **Java OOP, C programming, basic Python**
-
-- ⚡ Fun fact **I love Mathematics and have an eye for design!**
 
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
