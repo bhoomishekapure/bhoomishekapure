@@ -4,7 +4,7 @@
 
 # 🌟 About Me:
 
-- 👩‍💻 First-year **Computer Engineering** student from India
+- 👩‍💻 Second-year **Computer Engineering** student 
 - 💻 Skilled in **Java (OOP)**, **C**, and **basic Python**
 - ✨ Passionate about **Mathematics** and **Design**
 - 🚀 Currently working on learning advanced **Java** and building small **OOP-based projects**
