@@ -1,50 +1,153 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Bhoomi&fontSize=26&fontAlignY=40)
+<div align="center">
+
+# Hi 👋, I'm Bhoomi
+
+### `Code. Create. Debug. Repeat.`
+
+**Computer Engineering Student · Java Programmer · Problem Solver**
+
+</div>
 
 ---
 
-## 🌟 About Me
-- 👩‍💻 Second-year **Computer Engineering** student  
-- 💻 Skilled in **Java (OOP)**, **C**, **Python (basics)**  
-- 🗄️ Knowledge of **DBMS** and **MySQL**  
-- ✨ Strong interest in **Mathematics** and **Design**  
-- 🚀 Currently strengthening **advanced Java** and building **OOP-based projects**
+## About Me
+
+Hi! I'm **Bhoomi**, a third-year **Computer Engineering** student.
+
+I enjoy solving problems, understanding how things work, and turning ideas into projects. My current focus is on strengthening my **Data Structures & Algorithms**, **Java**, and core **Computer Science fundamentals**.
+
+Beyond code, I enjoy **mathematics, design, and creative problem-solving** — a combination that influences how I approach both technical and creative work.
+
+```java id="q44ofn"
+class Bhoomi {
+
+    String degree = "Computer Engineering";
+    String primaryLanguage = "Java";
+
+    String[] currentlyExploring = {
+        "Data Structures & Algorithms",
+        "Artificial Intelligence",
+        "Computer Science Fundamentals"
+    };
+
+    String motto = "Keep learning. Keep building.";
+}
+```
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Java**
-- **Object-Oriented Design** principles
-- **MySQL** and database-driven applications
+## Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,python,mysql,git,github,figma" />
+
+<br><br>
+
+**Java · C · Python · MySQL · Git · GitHub · Figma · Canva · InShot**
+
+</div>
 
 ---
 
-## 🔍 Ask Me About
-- **Java & OOP concepts**
-- **C Programming**
-- **Basic Python**
-- **DBMS & SQL (MySQL)**
+## Currently Exploring
+
+```text id="ol99np"
+▸ Data Structures & Algorithms
+▸ Problem Solving in Java
+▸ Artificial Intelligence
+▸ Database Management Systems
+▸ Operating Systems
+▸ Software Engineering & Design
+```
+
+My current goal is to build stronger **problem-solving skills**, deepen my understanding of **core Computer Science concepts**, and apply what I learn through projects.
 
 ---
 
-## ✨ Fun Fact
-I enjoy **solving mathematical problems** and have an **eye for clean design**.
+## Projects
+
+### 🔐 CryptoVault
+
+**Crypto-Agile Post-Quantum Authentication & Secure Data Vault**
+
+A security-focused project exploring concepts such as **crypto-agility, encrypted data storage, authentication, key versioning, and post-quantum readiness**.
 
 ---
 
-## 🔮 Languages & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="32" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="32" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32"/>
-</p>
+### 🤖 AlgoSphere
+
+An **AI-focused project** developed for a competition, built around an original problem-solving concept and the application of AI to create a practical solution.
 
 ---
 
-## 📫 Connect with Me
-- 📧 **Email:** bhoomishekapure@gmail.com  
-- 💻 **GitHub:** [bhoomishekapure](https://github.com/bhoomishekapure)
+### ☕ Java & Database Projects
+
+A collection of projects developed while exploring:
+
+`Object-Oriented Programming` · `Algorithms` · `JDBC` · `DBMS`
 
 ---
 
-⭐ *Always curious to learn, build, and improve.*
+## My Approach to Problem Solving
+
+```text id="x9hj2a"
+       Understand the problem
+                │
+                ▼
+        Analyze constraints
+                │
+                ▼
+       Think of an approach
+                │
+                ▼
+        Write the solution
+                │
+                ▼
+          Test & Debug
+                │
+                ▼
+        Optimize if needed
+                │
+                ▼
+        Learn & Improve
+```
+
+---
+
+
+
+## A Little More About Me
+
+```text id="kawmtg"
+🧠  I enjoy mathematics and logical problem-solving.
+🎨  I have a strong interest in design and visual creativity.
+💻  Java is my primary programming language.
+🌱  I believe consistent learning beats knowing everything at once.
+```
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="mailto:bhoomishekapure@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-informational?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/bhoomishekapure">
+  <img src="https://img.shields.io/badge/GitHub-bhoomishekapure-informational?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Always learning. Always building.
+
+⭐ Thanks for visiting my profile!
+
+</div>
